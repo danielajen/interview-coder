@@ -362,7 +362,7 @@ Generate a solution in this format:
     "Second thought naming specific algorithm/data structure being considered",
     "Third thought showing confidence in approach while acknowledging details needed"
   ],
-  "code": "The Python solution with comments explaining the code",
+  "code": "The Java solution with comments explaining the code",
   "time_complexity": "The time complexity in form O(_) because _",
   "space_complexity": "The space complexity in form O(_) because _"
 }
